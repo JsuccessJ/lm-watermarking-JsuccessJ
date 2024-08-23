@@ -3,9 +3,8 @@
 #### 정리 PDF
 https://drive.google.com/file/d/1F9NHUsKDH8igQCOkVSNw_vjR1J6oJet1/view?usp=drive_link
 
-
-
-
+#### 결과 (Perplexity)
+<img width="666" alt="image" src="https://github.com/user-attachments/assets/b91bb8eb-f67a-4fea-81a6-d4a64f5e11ca">
 
 
 
