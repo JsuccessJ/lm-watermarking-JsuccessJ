@@ -1,10 +1,10 @@
 # LLM에서의 Watermark 적용은 최근 가장 핫한 분야 중 하나입니다.
 
 #### 정리 PDF
-https://drive.google.com/file/d/1F9NHUsKDH8igQCOkVSNw_vjR1J6oJet1/view?usp=drive_link
+https://drive.google.com/file/d/1F9NHUsKDH8igQCOkVSNw_vjR1J6oJet1/view?usp=sharing
 
 #### 논문 리딩
-https://drive.google.com/file/d/1JDCjYFvNcpApaQGUfCwlgZfPORknQ158/view?usp=drive_link
+https://drive.google.com/file/d/1JDCjYFvNcpApaQGUfCwlgZfPORknQ158/view?usp=sharing
 
 #### 결과 (Perplexity)
 <img width="666" alt="image" src="https://github.com/user-attachments/assets/b91bb8eb-f67a-4fea-81a6-d4a64f5e11ca">
