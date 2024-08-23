@@ -17,7 +17,7 @@ cache_dir = "/data/huggingface_models"
 model = AutoModelForCausalLM.from_pretrained(model_name, cache_dir=cache_dir).to(device)
 tokenizer = AutoTokenizer.from_pretrained(model_name, cache_dir=cache_dir)
 
-# 워터마크 로그잇 프로세서 초기화
+# 워터마크 로짓 프로세서 초기화
 watermark_processor = WatermarkLogitsProcessor(
     vocab=list(tokenizer.get_vocab().values()),
     gamma=0.25,
@@ -25,7 +25,7 @@ watermark_processor = WatermarkLogitsProcessor(
     seeding_scheme="simple_1"
 )
 
-# 로그잇 프로세서 리스트
+# 로짓 프로세서 리스트
 logits_processor = LogitsProcessorList([watermark_processor])
 
 # 입력 파일에서 데이터 읽기 (JSON 형식)
