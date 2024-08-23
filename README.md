@@ -9,20 +9,6 @@ https://drive.google.com/file/d/1JDCjYFvNcpApaQGUfCwlgZfPORknQ158/view?usp=drive
 #### 결과 (Perplexity)
 <img width="666" alt="image" src="https://github.com/user-attachments/assets/b91bb8eb-f67a-4fea-81a6-d4a64f5e11ca">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 # 💧 [A Watermark for Large Language Models](https://arxiv.org/abs/2301.10226) 🔍
