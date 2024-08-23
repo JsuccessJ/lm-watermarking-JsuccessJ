@@ -1,3 +1,14 @@
+# 해당 워터마크 기술은 영어로 이루어진 생성작업에서 좋은 성능을 보입니다.
+
+
+
+
+
+
+
+
+
+
 # 💧 [A Watermark for Large Language Models](https://arxiv.org/abs/2301.10226) 🔍
 
 ### [Demo](https://huggingface.co/spaces/tomg-group-umd/lm-watermarking) | [Paper](https://arxiv.org/abs/2301.10226)
