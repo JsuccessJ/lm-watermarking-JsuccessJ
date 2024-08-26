@@ -1,4 +1,4 @@
-# LLM에서의 Watermark 적용은 최근 가장 핫한 분야 중 하나입니다.
+# LLM Watermark 적용은 최근 가장 핫한 분야 중 하나입니다.
 
 <div align="center">
   <strong style="font-size: 1.2em;">정리 PDF 링크 (이미지 클릭)</strong>  
