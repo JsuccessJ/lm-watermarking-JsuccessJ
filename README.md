@@ -13,11 +13,20 @@
 </div>
 
 
-#### 논문 리딩
-https://drive.google.com/file/d/1JDCjYFvNcpApaQGUfCwlgZfPORknQ158/view?usp=sharing
+<div align="center">
+  <strong style="font-size: 1.2em;">논문 리딩</strong>  
+  <br>
+  <a href="https://drive.google.com/file/d/1JDCjYFvNcpApaQGUfCwlgZfPORknQ158/view?usp=sharing">논문 리딩 PDF 링크</a>
+</div>
 
-#### 결과 (Perplexity)
-<img width="666" alt="image" src="https://github.com/user-attachments/assets/b91bb8eb-f67a-4fea-81a6-d4a64f5e11ca">
+<br>
+
+<div align="center">
+  <strong style="font-size: 1.2em;">결과 (Perplexity)</strong>  
+  <br>
+  <img width="666" alt="결과 (Perplexity)" src="https://github.com/user-attachments/assets/b91bb8eb-f67a-4fea-81a6-d4a64f5e11ca">
+</div>
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
