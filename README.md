@@ -1,7 +1,17 @@
 # LLM에서의 Watermark 적용은 최근 가장 핫한 분야 중 하나입니다.
 
-#### 정리 PDF
-https://drive.google.com/file/d/1F9NHUsKDH8igQCOkVSNw_vjR1J6oJet1/view?usp=sharing
+<div align="center">
+  <strong style="font-size: 1.2em;">정리 PDF 링크 (이미지 클릭)</strong>  
+  <br>
+  ⬇⬇⬇⬇⬇
+</div>
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/1F9NHUsKDH8igQCOkVSNw_vjR1J6oJet1/view?usp=sharing">
+    <img width="796" alt="LLM에서의 Watermark 적용" src="https://github.com/user-attachments/assets/d9e2ba25-3358-41f2-8af3-fbbe4c36cef8">
+  </a>
+</div>
+
 
 #### 논문 리딩
 https://drive.google.com/file/d/1JDCjYFvNcpApaQGUfCwlgZfPORknQ158/view?usp=sharing
